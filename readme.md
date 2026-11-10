@@ -19,25 +19,7 @@ Lab7Web_PHP/
 ├── mini_project.php
 ├── README.md
 └── screenshoot/
-    ├── foto1.png
-    ├── foto2.png
-    ├── foto3.png
-    ├── foto4.png
-    ├── foto5.png
-    ├── foto6.png
-    ├── foto7.png
-    ├── foto8.png
-    ├── foto9.png
-    ├── foto10.png
-    ├── foto11.png
-    ├── foto12.png
-    ├── foto13.png
-    ├── foto14.png
-    ├── foto15.png
-    ├── foto16.png
-    ├── foto17.png
-    ├── foto18.png
-    └── foto19.png
+
 ---
 
 ## 1. Latihan 1: Pengaksesan Web Browser PHP Secara Lokal
