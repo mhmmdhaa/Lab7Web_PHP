@@ -7,6 +7,7 @@
 
 ---
 Struktur Direktori
+```
 Lab7Web_PHP/
 ├── cari.php
 ├── eksperimen.php
@@ -19,7 +20,7 @@ Lab7Web_PHP/
 ├── mini_project.php
 ├── README.md
 └── screenshoot/
-
+```
 ---
 
 ## 1. Latihan 1: Pengaksesan Web Browser PHP Secara Lokal
